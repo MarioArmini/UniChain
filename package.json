@@ -1,0 +1,12 @@
+{
+	"name": "Project_Z",
+	"version": "1.0.0",
+	"description": "",
+	"dependencies": {
+		"crypto-js": "^4.1.1",
+		"elliptic": "^6.5.4",
+		"level" : "^7.0.1",
+		"js-sha3" : "^0.8.0",
+		"js-crypto-pbkdf" : "^1.0.4"
+	}
+}
